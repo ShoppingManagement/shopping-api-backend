@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2efa3e86-efe7-456e-b3fa-a271ead6b3c5" name="Changes" comment="OK-create and get Order successfully">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vhphong&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="768c92c0-9ae9-4970-a244-b63f6523f8c4" />
+        <option name="url" value="https://github.com/ShoppingManagement/shopping-mgmt-backend.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\apache-maven-3.8.8" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dsMFSnGUCXBBRWEJsu4oLgmi1u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InventoryServiceApplication.executor": "Debug",
+    "Application.OrderServiceApplication.executor": "Debug",
+    "Application.ProductServiceApplication.executor": "Debug",
+    "JUnit.All in shopping-mgmt-backend (1).executor": "Coverage",
+    "JUnit.All in shopping-mgmt-backend.executor": "Coverage",
+    "JUnit.ProductControllerDiffblueTest.testCreateProduct.executor": "Coverage",
+    "JUnit.ProductControllerTest.executor": "Coverage",
+    "JUnit.ProductControllerTest.testCreateProduct.executor": "Debug",
+    "JUnit.ProductServiceApplicationTests.executor": "Run",
+    "JUnit.ProductServiceApplicationTests.testCreateProduct.executor": "Run",
+    "Maven.inventory-service [clean].executor": "Run",
+    "Maven.order-service [clean].executor": "Run",
+    "Maven.product-service [clean].executor": "Run",
+    "Maven.product-service [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ShoppingManagement/shopping-mgmt-backend/product-service/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pnk.orderservice.dto" />
+      <recent name="com.pnk.orderservice.model" />
+      <recent name="com.pnk.productservice.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ShoppingManagement\shopping-mgmt-backend\product-service\src\main\resources" />
+      <recent name="C:\ShoppingManagement\shopping-mgmt-backend\order-service\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pnk.productservice.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProductServiceApplication">
+    <configuration name="InventoryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pnk.inventoryservice.InventoryServiceApplication" />
+      <module name="inventory-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pnk.inventoryservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pnk.orderservice.OrderServiceApplication" />
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pnk.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pnk.productservice.ProductServiceApplication" />
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pnk.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in shopping-mgmt-backend (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-mgmt-backend" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pnk.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pnk.productservice" />
+      <option name="MAIN_CLASS_NAME" value="com.pnk.productservice.ProductServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InventoryServiceApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="Application.OrderServiceApplication" />
+        <item itemvalue="JUnit.ProductServiceApplicationTests" />
+        <item itemvalue="JUnit.All in shopping-mgmt-backend (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2efa3e86-efe7-456e-b3fa-a271ead6b3c5" name="Changes" comment="" />
+      <created>1710792228106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710792228106</updated>
+    </task>
+    <task id="LOCAL-00001" summary="OK-create and get Product successfully">
+      <option name="closed" value="true" />
+      <created>1710796666240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710796666240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="OK-create and get Product successfully..added ProductControllerTest">
+      <option name="closed" value="true" />
+      <created>1710808916992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710808916992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="OK-create and get Product successfully..added ProductControllerTest">
+      <option name="closed" value="true" />
+      <created>1710809104532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710809104532</updated>
+    </task>
+    <task id="LOCAL-00004" summary="OK-create and get Order successfully">
+      <option name="closed" value="true" />
+      <created>1710813801283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710813801283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="OK-create and get Order successfully">
+      <option name="closed" value="true" />
+      <created>1710820331246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710820331246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add existing project files to Git" />
+    <MESSAGE value="OK-create and get Product successfully" />
+    <MESSAGE value="OK-create and get Product successfully..added ProductControllerTest" />
+    <MESSAGE value="added Inventory service successfully" />
+    <MESSAGE value="OK-create and get Order successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK-create and get Order successfully" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shopping_mgmt_backend$ProductControllerTest.ic" NAME="ProductControllerTest Coverage Results" MODIFIED="1710807705013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pnk.productservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/shopping_mgmt_backend$ProductServiceApplicationTests.ic" NAME="ProductServiceApplicationTests Coverage Results" MODIFIED="1710808024140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pnk.productservice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/shopping_mgmt_backend$All_in_shopping_mgmt_backend__1_.ic" NAME="All in shopping-mgmt-backend (1) Coverage Results" MODIFIED="1710808876798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/shopping_mgmt_backend$ProductControllerDiffblueTest_testCreateProduct.ic" NAME="ProductControllerDiffblueTest.testCreateProduct Coverage Results" MODIFIED="1710807062288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pnk.productservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/shopping_mgmt_backend$All_in_shopping_mgmt_backend.ic" NAME="All in shopping-mgmt-backend Coverage Results" MODIFIED="1710808802934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/shopping_mgmt_backend$ProductControllerTest_testCreateProduct.ic" NAME="ProductControllerTest.testCreateProduct Coverage Results" MODIFIED="1710807895424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pnk.productservice.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>
